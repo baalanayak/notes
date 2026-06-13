@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Improved log message formatting
 - Checked for memory leaks in long-running path
 - Cross-checked behaviour against spec
+
+## 2026-06-13
+- Added healthcheck endpoint stub
+- Resolved TODO items from previous session
